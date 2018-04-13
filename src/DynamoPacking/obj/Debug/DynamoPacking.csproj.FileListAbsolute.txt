@@ -1,8 +1,0 @@
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\obj\Debug\DynamoPacking.csprojResolveAssemblyReference.cache
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\bin\Debug\DynamoPacking.dll
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\bin\Debug\DynamoPacking.pdb
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\bin\Debug\ProtoGeometry.dll
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\bin\Debug\ProtoInterface.dll
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\bin\Debug\ProtoGeometry.xml
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\obj\Debug\DynamoPacking.dll
-c:\users\ian\documents\visual studio 2012\Projects\DynamoPacking\DynamoPacking\obj\Debug\DynamoPacking.pdb
